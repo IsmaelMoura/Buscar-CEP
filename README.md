@@ -1,2 +1,2 @@
-# Buscar-CEP
-projeto de java para buscar CEP Automáticamente
+# Projeto Java - Buscar CEP
+Projeto desenvolvido em Java para buscar CEP e completar os campos automaticamente
